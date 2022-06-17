@@ -1,8 +1,8 @@
 <?php
 
-namespace Jeremytubbs\Deepzoom\Tests;
+namespace Orianenmk\Deepzoom\Tests;
 
-use Jeremytubbs\Deepzoom\DeepzoomFactory;
+use Orianenmk\Deepzoom\DeepzoomFactory;
 use League\Flysystem\Config;
 use League\Flysystem\Local\LocalFilesystemAdapter;
 use PHPUnit\Framework\TestCase;

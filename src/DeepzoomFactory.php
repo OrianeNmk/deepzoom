@@ -1,6 +1,6 @@
 <?php
 
-namespace Jeremytubbs\Deepzoom;
+namespace Orianenmk\Deepzoom;
 
 use InvalidArgumentException;
 use Intervention\Image\ImageManager;
@@ -9,7 +9,7 @@ use League\Flysystem\Filesystem;
 
 /**
  * Class DeepzoomFactory
- * @package Jeremytubbs\Deepzoom
+ * @package Orianenmk\Deepzoom
  */
 class DeepzoomFactory
 {

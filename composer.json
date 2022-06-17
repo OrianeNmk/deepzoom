@@ -1,14 +1,7 @@
 {
-    "name": "jeremytubbs/deepzoom",
+    "name": "orianenmk/deepzoom",
     "description": "Deepzoom Tile Generator for OpenSeadragon",
     "license": "MIT",
-    "authors" : [
-        {
-            "name": "Jeremy Tubbs",
-            "email": "jeremytubbs@gmail.com",
-            "homepage": "http://jeremytubbs.com"
-        }
-    ],
     "keywords": [
         "openseadragon",
         "deepzoom",
@@ -25,12 +18,12 @@
     ],
     "autoload": {
         "psr-4": {
-            "Jeremytubbs\\Deepzoom\\": "src/"
+            "Orianenmk\\Deepzoom\\": "src/"
         }
     },
     "autoload-deb": {
       "psr-4": {
-        "Jeremytubbs\\Deepzoom\\Tests\\": "tests/"
+        "Orianenmk\\Deepzoom\\Tests\\": "tests/"
       }
     },
     "require": {

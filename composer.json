@@ -1,5 +1,6 @@
 {
     "name": "orianenmk/deepzoom",
+    "version": "0.7.0",
     "description": "Deepzoom Tile Generator for OpenSeadragon",
     "license": "MIT",
     "keywords": [
